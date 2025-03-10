@@ -11,3 +11,5 @@ FPS improvement: 6FPS -> 120FPS
 Scene: hmstest-mod.unity
 Used an open source path generator and follower as base work, setup a custom path 
 and makes camera follow.
+
+![fps](hmstest-opt-fps.png)
